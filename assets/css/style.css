@@ -237,7 +237,7 @@ h6 {
   border-radius: 5px;
 
 
-  background-color:#353434;
+    background-color:#231f20;
   box-shadow: 0px 0 30px rgba(1, 41, 112, 0.1);
 }
 
@@ -1039,7 +1039,7 @@ td a:hover{
 /*--------------------------------------------------------------
 # Profie Page
 --------------------------------------------------------------*/
-.
+
 .profile .profile-card img {
   max-width: 120px;
 }
